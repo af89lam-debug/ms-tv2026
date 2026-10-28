@@ -1,0 +1,6 @@
+{
+  "name": "MS TV",
+  "description": "منصة MS TV لبث القنوات التلفزيونية المباشرة والأفلام والمسلسلات مع مشغل سريع ودعم روابط M3U و Xtream والقوائم الخاصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
